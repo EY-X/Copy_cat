@@ -1,0 +1,18 @@
+/* nav {
+    display: grid; } */
+
+
+#home {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column: 2;
+}
+
+
+.cat-pic {
+    width: 100%;
+}
+
+.cat-heading {
+}
+
